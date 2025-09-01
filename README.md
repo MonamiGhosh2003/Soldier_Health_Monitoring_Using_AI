@@ -1,8 +1,8 @@
-# Soldier_Health_Monitoring_Using_AI
+
 
 # Soldier Health Management System
 
-A comprehensive military health management system designed to track soldier medical records, SHAPE assessments, and health status with AI capabilities.
+A comprehensive military health management system designed to track soldiers' medical records, SHAPE assessments, and health status with AI capabilities.
 
 ## Features
 
